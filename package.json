@@ -1,0 +1,19 @@
+{
+  "name": "node_shopppingmall_lsr",
+  "version": "1.0.0",
+  "description": "node_shopppingmall_LSR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sy870203/node_shopppingmall_LSR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sy870203/node_shopppingmall_LSR/issues"
+  },
+  "homepage": "https://github.com/sy870203/node_shopppingmall_LSR#readme"
+}
