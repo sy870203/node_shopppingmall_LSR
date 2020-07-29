@@ -6,8 +6,14 @@ const router = express.Router();
 
 // product Create API
 router.post('/', (req, res) => {
+    const newProduct = {
+        name: req.body.productname,
+        price: req.body.productprice,
+        sex: req.body.productsex
+    }
     res.json({
-        message: "product Create API"
+        message: "product Create API",
+        productInfo: newProduct
     })
 })
 
