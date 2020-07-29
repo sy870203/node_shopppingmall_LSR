@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sy870203/node_shopppingmall_LSR/issues"
   },
-  "homepage": "https://github.com/sy870203/node_shopppingmall_LSR#readme"
+  "homepage": "https://github.com/sy870203/node_shopppingmall_LSR#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
